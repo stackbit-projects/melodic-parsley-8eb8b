@@ -3,9 +3,9 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/security.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: HELPING TO STRENGTHEN YOUR CYBER SECURITY POSTURE
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
@@ -16,13 +16,13 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Our service porfolio revolves around cyber security, cloud management and
+      hybrid connectivity.
     features:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
+      - title: Accelerate and protect your traffic with Cloudflare Enterprise
+        image: images/rocket.png
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
