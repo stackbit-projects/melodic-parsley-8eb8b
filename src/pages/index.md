@@ -18,8 +18,8 @@ sections:
     background: gray
     title: Services
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Our service porfolio revolves around cyber security, cloud management and
+      hybrid connectivity.
     features:
       - title: Accelerate and protect your traffic with Cloudflare Enterprise
         image: images/rocket.png
