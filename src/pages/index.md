@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: HELPING TO STRENGTHEN YOUR CYBER SECURITY POSTUR
+    title: HELPING TO STRENGTHEN YOUR CYBER SECURITY POSTURE
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
